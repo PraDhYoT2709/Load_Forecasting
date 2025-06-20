@@ -31,8 +31,9 @@ These forecasts help in optimizing load planning, enhancing energy efficiency, a
 ## 🖼️ Forecast Visualizations
 
 ### 🔸 Forecast Results for All Lines (excluding kVA - 33)
-![Forecast for All Lines](ALL_lines.jpg)
+![Forecast for All Lines](RESULTS/ALL_lines.jpg)
 
 ### 🔸 Forecast Results for kVA - 33
-![Forecast for kVA - 33](33%20KVA.jpg)
+![Forecast for kVA - 33](RESULTS/33%20KVA.jpg)
+
 
