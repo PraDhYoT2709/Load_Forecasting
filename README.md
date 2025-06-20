@@ -28,3 +28,11 @@ These forecasts help in optimizing load planning, enhancing energy efficiency, a
 | **Total kVA**     | 2027.10 | 2.43%         | 3.42%        | 4270.64 | 0.81      | 81.83%             |
 
 ---
+## 🖼️ Forecast Visualizations
+
+### 🔸 Forecast Results for All Lines (excluding kVA - 33)
+![Forecast for All Lines](ALL_lines.jpg)
+
+### 🔸 Forecast Results for kVA - 33
+![Forecast for kVA - 33](33%20KVA.jpg)
+
